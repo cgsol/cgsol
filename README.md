@@ -1,5 +1,3 @@
 - 👋 Hi, I’m César! @cgsol
 - 📗 I’m a student in my senior year
-- 🌱 I’m a part of the BU RISE program
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at cesar.guerrasolano@gmail.com
