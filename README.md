@@ -1,3 +1,4 @@
 - 👋 Hi, I’m César! @cgsol
 - 📗 I’m a student in my senior year
 - 📫 Reach me at cesar.guerrasolano@gmail.com
+- 🧇 My favorite food is Waffle House! Send me some at: 2300 S 5TH CHEYENNE WY 82007-3323 USA
