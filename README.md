@@ -1,4 +1,4 @@
 - 👋 Hi, I’m César! @cgsol
-- 📗 I’m a student in my senior year
-- 📫 Reach me at cesar.guerrasolano@gmail.com
-- 🧇 My favorite food is Waffle House! Send me some at: 2300 S 5TH CHEYENNE WY 82007-3323 USA
+- 📗 I’m a freshman studying computer science at the University of Pittsburgh. I'm interested in going into computational biology or computational linguistics. Finding trends and making connections for fields outside of just strictly CS is what keeps me going, and is what I want to pursue going forward.
+- 📫 Reach me at cesar.guerrasolano@gmail.com or at my LinkedIn https://www.linkedin.com/in/cesar-guerra-solano/.
+- 🧇 I've got a bit of experience in Python, Java, CSS, JavaScript, and AWS (specifically SageMaker).
