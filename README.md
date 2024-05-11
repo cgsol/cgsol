@@ -1,4 +1,1 @@
-- 👋 Hi, I’m César Guerra-Solano! @cgsol
-- 📗 I’m a sophomore studying computer science and computational biology at the University of Pittsburgh. I'm interested in going into computational biology or computational linguistics. Finding trends and making connections for fields outside of just strictly CS is what keeps me going, and is what I want to pursue going forward.
-- 📫 Reach me at cesar.guerrasolano@gmail.com or at my LinkedIn https://www.linkedin.com/in/cesar-guerra-solano/.
-- 🧇 I've got a bit of experience in Python, Java, CSS, JavaScript, and AWS (specifically SageMaker).
+
